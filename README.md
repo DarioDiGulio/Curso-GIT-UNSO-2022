@@ -1,1 +1,1 @@
-# Curso-GIT-UNSO-2022
+# Curso GIT UNSO 2022
