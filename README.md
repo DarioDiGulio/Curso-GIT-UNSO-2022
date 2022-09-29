@@ -11,3 +11,4 @@ Guadalupe Gonzalez
 Taborda Juan Pablo
 Laura Poggio
 Gonzalo Nahuel Duarte
+daiana ruiz
