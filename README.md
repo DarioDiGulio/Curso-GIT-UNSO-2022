@@ -16,3 +16,4 @@ Julieta Luiso
 Gaston Rossello
 Marco Aleman
 Justin Cisneros
+Cristian Pinto
