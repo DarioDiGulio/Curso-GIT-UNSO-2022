@@ -17,3 +17,4 @@ Gaston Rossello
 Marco Aleman
 Justin Cisneros
 Cristian Pinto
+Walter Valle
