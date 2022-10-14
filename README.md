@@ -20,3 +20,5 @@ Cristian Pinto
 Walter Valle
 Federico Gaston Blanco Ortiz
 Gisela Anabel Candela
+
+URL LinkedIN (TobiassMonier): https://www.linkedin.com/in/tobiasmonier/
