@@ -1,1 +1,1 @@
-url de linkedin (Fedegbo) : https://www.linkedin.com/in/fedegbo/
+Url de linkedin (Fedegbo) : https://www.linkedin.com/in/fedegbo/
