@@ -1,5 +1,4 @@
-- Fedegbo [Linkedin](https://www.linkedin.com/in/fedegbo)
-
+ 
 Dario Di Gulio
 Arturo Garcia
 Fernando Benítez 
@@ -22,4 +21,7 @@ Federico Gaston Blanco Ortiz
 Gisela Anabel Candela
 Mauricio Fernando Ramirez Delgado
 Natalia Liscio
+
+- Likedin 
+- Fedegbo [Linkedin](https://www.linkedin.com/in/fedegbo)
 
