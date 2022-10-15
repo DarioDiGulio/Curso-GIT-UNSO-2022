@@ -1,2 +1,2 @@
- [Linkedin](https://www.linkedin.com/in/fedegbo)
+Fedegbo `Linkedin` [Linkedin](https://www.linkedin.com/in/fedegbo)
 
