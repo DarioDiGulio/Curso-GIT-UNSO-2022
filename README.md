@@ -1,5 +1,6 @@
-# Curso GIT UNSO 2022
+- Fedegbo [Linkedin](https://www.linkedin.com/in/fedegbo)
 
+<<<<<<< HEAD
 Dario Di Gulio
 Arturo Garcia
 Fernando Benítez 
@@ -21,3 +22,6 @@ Walter Valle
 Federico Gaston Blanco Ortiz
 Gisela Anabel Candela
 Mauricio Fernando Ramirez Delgado
+Natalia Liscio
+=======
+>>>>>>> fedegbo2
