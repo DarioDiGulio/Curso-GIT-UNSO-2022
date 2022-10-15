@@ -22,6 +22,6 @@ Gisela Anabel Candela
 Mauricio Fernando Ramirez Delgado
 Natalia Liscio
 
-- Likedin 
+- Linkedin 
 - Fedegbo [Linkedin](https://www.linkedin.com/in/fedegbo)
 
