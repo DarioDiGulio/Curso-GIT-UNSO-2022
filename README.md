@@ -43,4 +43,6 @@ Pablo Lucas
 - Linkedin 
 - Fedegbo [Linkedin](https://www.linkedin.com/in/fedegbo)
 - Tobias [Linkedin] (https://www.linkedin.com/in/tobiasmonier/)
+- Laura Poggio [Linkedin] (https://www.linkedin.com/in/laura-poggio-lezcano/)
 - Arturo [Linkedin] (https://www.linkedin.com/in/arturogarv/)
+
