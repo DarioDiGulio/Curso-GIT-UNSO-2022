@@ -18,7 +18,7 @@ Guadalupe Gonzalez
 
 Taborda Juan Pablo
 
-Laura Poggio  (https://www.linkedin.com/in/laura-poggio-lezcano/)
+Laura Poggio  [Linkedin](https://www.linkedin.com/in/laura-poggio-lezcano/)
 
 Gonzalo Nahuel Duarte
 
