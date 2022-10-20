@@ -1,5 +1,6 @@
  
 Dario Di Gulio
+- Gonzalo Nahuel Duarte [Linkedin](www.linkedin.com/in/duarteng)
 Arturo Garcia
 Fernando Benítez 
 Tobias Monier
@@ -9,7 +10,6 @@ Julian Moyano
 Guadalupe Gonzalez
 Taborda Juan Pablo
 Laura Poggio
-Gonzalo Nahuel Duarte
 Tejerina Cristian
 Julieta Luiso
 Gaston Rossello
@@ -27,3 +27,4 @@ Pablo Lucas
 - Fedegbo [Linkedin](https://www.linkedin.com/in/fedegbo)
 - Tobias [Linkedin] (https://www.linkedin.com/in/tobiasmonier/)
 - Arturo [Linkedin] (https://www.linkedin.com/in/arturogarv/)
+
