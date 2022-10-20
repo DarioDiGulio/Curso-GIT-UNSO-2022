@@ -38,7 +38,7 @@ Cristian Pinto
 
 Walter Valle
 
-Federico Gaston Blanco Ortiz
+Federico Gaston Blanco Ortiz [Linkedin](https://www.linkedin.com/in/fedegbo)
 
 Gisela Anabel Candela
 
@@ -49,7 +49,6 @@ Natalia Liscio
 Pablo Lucas
 
 - Linkedin 
-- Fedegbo [Linkedin](https://www.linkedin.com/in/fedegbo)
 - Tobias [Linkedin] (https://www.linkedin.com/in/tobiasmonier/)
 
 - Arturo [Linkedin] (https://www.linkedin.com/in/arturogarv/)
