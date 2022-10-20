@@ -1,6 +1,6 @@
  
 Dario Di Gulio
-- Gonzalo Nahuel Duarte [Linkedin](www.linkedin.com/in/duarteng)
+- Gonzalo Nahuel Duarte [Linkedin](https://www.linkedin.com/in/duarteng)
 Arturo Garcia
 Fernando Benítez 
 Tobias Monier
