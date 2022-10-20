@@ -2,6 +2,8 @@
 
 Dario Di Gulio [Linkedin](https://www.linkedin.com/in/dario-di-gulio/)
 
+- Gonzalo Nahuel Duarte [Linkedin](www.linkedin.com/in/duarteng)
+
 Arturo Garcia
 
 Fernando Benítez 
@@ -49,5 +51,9 @@ Pablo Lucas
 - Linkedin 
 - Fedegbo [Linkedin](https://www.linkedin.com/in/fedegbo)
 - Tobias [Linkedin] (https://www.linkedin.com/in/tobiasmonier/)
-- Arturo [Linkedin](https://www.linkedin.com/in/arturogarv/)
+
+- Arturo [Linkedin] (https://www.linkedin.com/in/arturogarv/)
+
+
+
 
