@@ -21,6 +21,7 @@ Federico Gaston Blanco Ortiz
 Gisela Anabel Candela
 Mauricio Fernando Ramirez Delgado
 Natalia Liscio
+Pablo Lucas
 
 - Linkedin 
 - Fedegbo [Linkedin](https://www.linkedin.com/in/fedegbo)
