@@ -2,7 +2,7 @@
 
 Dario Di Gulio [Linkedin](https://www.linkedin.com/in/dario-di-gulio/)
 
-- Gonzalo Nahuel Duarte [Linkedin](www.linkedin.com/in/duarteng)
+Gonzalo Nahuel Duarte [Linkedin](https://www.linkedin.com/in/duarteng)
 
 Arturo Garcia
 
