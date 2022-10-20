@@ -8,7 +8,7 @@ Cintia S.R. Lescano
 Julian Moyano
 Guadalupe Gonzalez
 Taborda Juan Pablo
-Laura Poggio
+Laura Poggio  (https://www.linkedin.com/in/laura-poggio-lezcano/)
 Gonzalo Nahuel Duarte
 Tejerina Cristian
 Julieta Luiso
@@ -25,4 +25,4 @@ Natalia Liscio
 - Linkedin 
 - Fedegbo [Linkedin](https://www.linkedin.com/in/fedegbo)
 - Tobias [Linkedin] (https://www.linkedin.com/in/tobiasmonier/)
-- Laura Poggio [Linkedin] (https://www.linkedin.com/in/laura-poggio-lezcano/)
+
