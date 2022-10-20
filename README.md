@@ -18,7 +18,7 @@ Guadalupe Gonzalez
 
 Taborda Juan Pablo
 
-Laura Poggio
+Laura Poggio  (https://www.linkedin.com/in/laura-poggio-lezcano/)
 
 Gonzalo Nahuel Duarte
 
@@ -48,6 +48,6 @@ Pablo Lucas
 
 - Linkedin 
 - Fedegbo [Linkedin](https://www.linkedin.com/in/fedegbo)
-- Laura Poggio [Linkedin](https://www.linkedin.com/in/laura-poggio-lezcano/)
+- Tobias [Linkedin] (https://www.linkedin.com/in/tobiasmonier/)
 - Arturo [Linkedin](https://www.linkedin.com/in/arturogarv/)
 
