@@ -1,4 +1,3 @@
-
 # Curso GIT UNSO 2022
 
 Dario Di Gulio [Linkedin](https://www.linkedin.com/in/dario-di-gulio/)
@@ -43,7 +42,8 @@ Federico Gaston Blanco Ortiz [Linkedin](https://www.linkedin.com/in/fedegbo)
 
 Gisela Anabel Candela
 
-Mauricio Fernando Ramirez Delgado [linkedin](https://www.linkedin.com/in/mauricio-fernando-ramirez-delgado-326752189/)
+Mauricio Fernando Ramirez Delgado
+
 Natalia Liscio
 
 Pablo Lucas
