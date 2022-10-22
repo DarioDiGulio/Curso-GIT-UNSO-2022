@@ -8,7 +8,7 @@ Arturo Garcia
 
 Fernando Benítez 
 
-Tobias Monier
+Tobias Monier [LinkedIn](https://www.linkedin.com/in/tobiasmonier/)
 
 Maximiliano Fagnano
 
