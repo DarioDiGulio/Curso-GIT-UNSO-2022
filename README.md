@@ -43,6 +43,7 @@ Federico Gaston Blanco Ortiz [Linkedin](https://www.linkedin.com/in/fedegbo)
 Gisela Anabel Candela
 
 Mauricio Fernando Ramirez Delgado [linkedin](https://www.linkedin.com/in/mauricio-fernando-ramirez-delgado-326752189/)
+
 Natalia Liscio
 
 Pablo Lucas
