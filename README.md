@@ -1,4 +1,3 @@
-
 # Curso GIT UNSO 2022
 
 Dario Di Gulio [Linkedin](https://www.linkedin.com/in/dario-di-gulio/)
@@ -37,7 +36,7 @@ Justin Cisneros
 
 Cristian Pinto
 
-Walter Valle
+Walter Valle [Linkedin](https://www.linkedin.com/in/walter-valle-b3a99b83)
 
 Federico Gaston Blanco Ortiz [Linkedin](https://www.linkedin.com/in/fedegbo)
 
@@ -52,7 +51,3 @@ Pablo Lucas
 - Tobias [Linkedin] (https://www.linkedin.com/in/tobiasmonier/)
 
 - Arturo [Linkedin] (https://www.linkedin.com/in/arturogarv/)
-
-
-
-
