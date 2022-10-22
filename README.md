@@ -48,6 +48,4 @@ Natalia Liscio
 
 Pablo Lucas
 
-Tobias [Linkedin](https://www.linkedin.com/in/tobiasmonier/)
-
 Arturo [Linkedin](https://www.linkedin.com/in/arturogarv/)
