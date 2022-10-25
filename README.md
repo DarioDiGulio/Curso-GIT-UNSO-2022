@@ -6,7 +6,7 @@ Gonzalo Nahuel Duarte [Linkedin](https://www.linkedin.com/in/duarteng)
 
 Arturo Garcia
 
-Fernando Benítez 
+Fernando Benítez [LinkedIn](https://www.linkedin.com/in/benitezf/)
 
 Tobias Monier [LinkedIn](https://www.linkedin.com/in/tobiasmonier/)
 
