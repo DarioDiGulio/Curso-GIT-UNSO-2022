@@ -30,7 +30,7 @@ Julieta Luiso
 
 Gaston Rossello
 
-Marco Aleman
+Marco Aleman [Linkedin](https://www.linkedin.com/in/aleman-marco/)
 
 Justin Cisneros
 
