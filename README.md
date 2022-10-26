@@ -26,7 +26,7 @@ Gonzalo Nahuel Duarte
 
 Tejerina Cristian
 
-Julieta Luiso
+Julieta Luiso [Linkedin](https://www.linkedin.com/in/maria-julieta-luiso/)
 
 Gaston Rossello
 
