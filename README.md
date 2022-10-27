@@ -49,3 +49,5 @@ Natalia Liscio
 Pablo Lucas
 
 Arturo [Linkedin](https://www.linkedin.com/in/arturogarv/)
+
+Caren Atala [Linkedin](https://www.linkedin.com/in/caren-atala/)
