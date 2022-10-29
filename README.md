@@ -10,7 +10,7 @@ Fernando Benítez [LinkedIn](https://www.linkedin.com/in/benitezf/)
 
 Tobias Monier [LinkedIn](https://www.linkedin.com/in/tobiasmonier/)
 
-Maximiliano Fagnano
+Maximiliano Fagnano [Linkedin](https://www.linkedin.com/in/maximiliano-fagnano-5808ba120/)
 
 Cintia S.R. Lescano
 
